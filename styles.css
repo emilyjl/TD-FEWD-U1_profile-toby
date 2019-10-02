@@ -9,7 +9,7 @@ body {
   text-align: center;
   font-family: 'Calibri', sans-serif;
   color: rgb(255, 255, 255);
-  background: url('images/bluesuede.png') repeat-y top center ;
+  background: url('images/bluesuede.jpg') repeat-y top center ;
   background-attachment: fixed;
   background-size: cover;
 }
