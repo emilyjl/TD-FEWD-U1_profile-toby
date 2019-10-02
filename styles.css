@@ -106,6 +106,9 @@ header {
 .about-column {
   flex-direction: column;
 }
+.about-list {
+  font-size: 20px;
+}
 
 .tag {
   background-color: #efefef;
@@ -130,8 +133,9 @@ header {
   margin: 20px auto 20px;
   padding: 20px 40px 20px;
   color: #213869;
-  background-color: rgb(255, 255, 255, 0.5);
+  background-color: rgba(255, 255, 255, 0.5);
   transition: all 0.5s;
+  font-size: 30px;
 }
 .card-img {
   max-width: 100%;
